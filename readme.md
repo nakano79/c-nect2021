@@ -1,4 +1,4 @@
-서버 사이트 소스코드
+## 서버 사이트 소스코드
 
 > 편집 및 보기
 
@@ -12,4 +12,7 @@ https://code.visualstudio.com/
 https://www.eclipse.org/ide/
 
 > 사용언어<br>
+
 PHP, HTML, SQL(서버 데이터베이스), JS(스크립트단)
+
+> 커뮤니티 사이트는 master 브랜치로.
