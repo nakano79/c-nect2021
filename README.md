@@ -11,5 +11,8 @@ https://code.visualstudio.com/
 3.Eclipse IDE
 https://www.eclipse.org/ide/
 
-> 사용언어<br>
+> 사용언어
+
 PHP, HTML, SQL(서버 데이터베이스), JS(스크립트단)
+
+> 서버 소스코드는 main 브랜치로.
